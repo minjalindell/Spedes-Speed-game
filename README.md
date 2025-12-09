@@ -4,7 +4,7 @@ Tämä projekti on ryhmätyönä rakennettu Speden Speleistä tunnettu nopeuspel
 Projekti yhdistää Arduino-laitteiston ja fyysisen pelin. 
 Tämä GitHub-repositorio sisältää pelin koodin, joka ohjaa peliä ja kommunikoi laitteiston kanssa.
 
-## Projektin idea
+## Projektin idea & ominaisuudet
 
 - Rakensimme itse fyysisen nopeuspeli-laitteiston Arduino-komponenteilla (painikkeet, LED-valot, Display-näytöt yms..)  
 - Peli mittaa pelaajan reaktioaikaa ja nopeutta. Nopeus nousee pelin edetessä
