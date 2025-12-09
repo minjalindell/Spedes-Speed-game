@@ -17,10 +17,11 @@ Tämä GitHub-repositorio sisältää pelin koodin, joka ohjaa peliä ja kommuni
 - Osallistuin pelin logiikan ja käyttöliittymän suunnitteluun
 - Osallistuin myös pelin fyysiseen rakentamiseen, johon kuului Arduino-komponenttien liittäminen, piuhojen juottaminen ja testaus, jotta laitteisto kommunikoi oikein pelin ohjelmiston kanssa.
 
-## Ohjelmointikielet
+## Käytetyt teknologiat
 
-- HTML, CSS, JavaScript (pelin front-end ja logiikka)  
-- Arduino (fyysinen laitteisto ja ohjelmointi)  
+- C++
+- C
+- Arduino  
 
 ## Mitä opin
 
