@@ -1,4 +1,4 @@
-Tämä projekti on ryhmätyönä rakennettu fyysinen nopeuspeli, jonka tarkoituksena on testata pelaajan refleksiä ja nopeutta. 
+Tämä projekti on ryhmätyönä rakennettu Speden Speleistä tunnettu nopeuspeli, jonka tarkoituksena on testata pelaajan refleksiä ja nopeutta. 
 Projekti yhdistää Arduino-laitteiston ja fyysisen pelin. 
 Tämä GitHub-repositorio sisältää pelin koodin, joka ohjaa peliä ja kommunikoi laitteiston kanssa.
 
