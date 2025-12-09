@@ -27,4 +27,4 @@ Mitä opin:
 - Opin yhdistämään fyysisen laitteiston ja ohjelmiston toimivaksi kokonaisuudeksi 
 
 
-Video pelin toiminnasta: https://unioulu.sharepoint.com/sites/TVT23SPL_R2_Lohi_Kerttula_Laukka_Lindell_Luokkanen/_layouts/15/stream.aspx?id=%2Fsites%2FTVT23SPL%5FR2%5FLohi%5FKerttula%5FLaukka%5FLindell%5FLuokkanen%2FShared%20Documents%2FProjektidokumentit%2FProjektiaiheen%20dokumentointi%2FSpedensEsittely%2Emov&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6d0b4a39%2D07df%2D43f4%2Dbfbf%2D40912e2a648a
+Video pelin toiminnasta: https://youtube.com/shorts/7O4uRnqst9U?feature=share
